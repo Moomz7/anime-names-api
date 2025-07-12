@@ -1,0 +1,35 @@
+# System folders
+AppData/
+Application Data/
+Local Settings/
+My Documents/
+NTUSER.*
+*.regtrans-ms
+*.blf
+*.ini
+
+# VS Code & config clutter
+.vscode/
+.config/
+.lesshst
+.gitconfig
+
+# Common OS folders
+Contacts/
+Desktop/
+Documents/
+Downloads/
+Favorites/
+Pictures/
+Videos/
+Saved Games/
+OneDrive/
+
+# Log files
+*.LOG1
+*.LOG2
+
+# Project-specific
+node_modules/
+.env
+*.log
